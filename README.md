@@ -1,2 +1,1 @@
-# chatup
-A simple chat applikation
+# shut-up

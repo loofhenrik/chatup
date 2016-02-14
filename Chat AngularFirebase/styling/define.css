@@ -1,0 +1,24 @@
+* {
+  font-family: sans-serif;
+}
+
+.hidden{
+    display: none;
+}
+
+.inline-header{
+  display: inline-block;
+}
+
+.destroyPopup{
+    position: absolute;
+    width: 60%;
+    left: 20%;
+    top:5%;
+    padding: 10%;
+    border: 1px solid #bababa;
+    border-radius: 5px;
+    background: white;
+    text-align: center;
+    z-index: 10;
+}
